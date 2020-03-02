@@ -25,3 +25,5 @@ git diff --name-only --cached or git diff --name-only --staged
 ```
 
 Hello 1
+Hello 2
+
